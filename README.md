@@ -1,6 +1,6 @@
 # 📝 Notion Clone - Full Stack Application
 
-A full-featured Notion-like workspace application built following Antonio's tutorial, featuring real-time collaboration, rich text editing, and file management.
+A full-featured Notion-like workspace application built following Code with Antonio's tutorial, featuring real-time collaboration, rich text editing, and file management. You can follow his tutorial ![here](https://www.youtube.com/watch?v=0OaDyjB9Ib8)
 
 ![Jotion](./public/jotion-dark.jpeg)
 
